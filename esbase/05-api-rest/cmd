@@ -1,0 +1,4 @@
+go mod init apirest
+go get -u github.com/gorilla/mux
+go get github.com/go-sql-driver/mysql
+go get gopkg.in/yaml.v2
