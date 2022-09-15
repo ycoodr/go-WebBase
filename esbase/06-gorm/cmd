@@ -1,0 +1,4 @@
+go mod init gorm
+go get gorm.io/gorm
+go get gorm.io/driver/mysql
+go get -u github.com/gorilla/mux
